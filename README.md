@@ -1,0 +1,2 @@
+# safelin
+safelink.js
